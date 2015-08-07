@@ -1,0 +1,26 @@
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare Used\bin\Debug\Ampare Used.exe
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare Used\bin\Debug\Ampare Used.pdb
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare Used\bin\Debug\Ampare Used.xml
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare Used\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare Used\obj\x86\Debug\Ampare_Used.Form1.resources
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare Used\obj\x86\Debug\Ampare_Used.Resources.resources
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare Used\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare Used\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare Used\obj\x86\Debug\Ampare Used.exe
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare Used\obj\x86\Debug\Ampare Used.xml
+C:\Users\Ampare\AppData\Local\Temporary Projects\Ampare Used\obj\x86\Debug\Ampare Used.pdb
+C:\Users\Ampare\documents\visual studio 2010\Projects\Ampare Used\Ampare Used\obj\x86\Debug\Ampare Used.exe
+C:\Users\Ampare\documents\visual studio 2010\Projects\Ampare Used\Ampare Used\obj\x86\Debug\Ampare Used.xml
+C:\Users\Ampare\documents\visual studio 2010\Projects\Ampare Used\Ampare Used\obj\x86\Debug\Ampare Used.pdb
+C:\Users\Ampare\documents\visual studio 2010\Projects\Ampare Used\Ampare Used\bin\Debug\Ampare Used.exe
+C:\Users\Ampare\documents\visual studio 2010\Projects\Ampare Used\Ampare Used\bin\Debug\Ampare Used.pdb
+C:\Users\Ampare\documents\visual studio 2010\Projects\Ampare Used\Ampare Used\bin\Debug\Ampare Used.xml
+C:\Users\Ampare\documents\visual studio 2010\Projects\Ampare Used\Ampare Used\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ampare\documents\visual studio 2010\Projects\Ampare Used\Ampare Used\obj\x86\Debug\Ampare_Used.Form1.resources
+C:\Users\Ampare\documents\visual studio 2010\Projects\Ampare Used\Ampare Used\obj\x86\Debug\Ampare_Used.Resources.resources
+C:\Users\Ampare\documents\visual studio 2010\Projects\Ampare Used\Ampare Used\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ampare\documents\visual studio 2010\Projects\Ampare Used\Ampare Used\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare Used\Ampare Used\bin\Debug\Ampare Used.exe.manifest
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare Used\Ampare Used\bin\Debug\Ampare Used.application
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare Used\Ampare Used\obj\x86\Debug\Ampare Used.exe.manifest
+C:\Users\Ampare\Documents\Visual Studio 2010\Projects\Ampare Used\Ampare Used\obj\x86\Debug\Ampare Used.application

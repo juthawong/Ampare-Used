@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Ampare Used.exe" version="1.0.0.1" publicKeyToken="f0c7efd1a2f8035b" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="My-Computer.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Ampare Used" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Ampare Used.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ampare Used.exe" size="1218560">
+      <assemblyIdentity name="Ampare Used" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>7hTyFoi8KlASqsOsZg2tc7RowYI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="My-Computer.ico" size="345402">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>0qRwyjasqn4jvT/G6Jzf7NtwuQ4=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Ampare-PC\Ampare" issuerKeyHash="dfd95bff0b5fc16f30a8bcfd51d722b43c8eab21" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>d2jkFgDLyCbj3JyVcxILjC1ydP8=</DigestValue></Reference></SignedInfo><SignatureValue>GhyK38wi6XtFZVdubL4y5XmoudkeFRxaX5nIa4dEkWw/kKf7j4vkoea9xpPj8Qxgr1uvbX9urNyXkSJg7qZiyCBwuYPSnMwYDTgvCxG4ydeG7f3V/OxHR9fGWKWN3C3YDSl1IxUcpixOK8ASCh/EyiNvdQ68nWb1+/c1nUmkpHA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yLF37DPLisve9iWl9rX0TbeJxq5Q6yzi2WiXTiLEGPY0xZ9dMPIQe+OwWRJC7DYVVzbVOUbPNOjCdlXKjohBptCva+Ik5vf5yhEOzFBLlg55HLjlQk1hA0jd3SoYW5PjGCSg3rw7XJaOiiYPmoJxbc/dn3fjEOUQn6lWtHVllZk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ff74722d8c0b1273959cdce326c8cb0016e46877" Description="" Url=""><as:assemblyIdentity name="Ampare Used.exe" version="1.0.0.1" publicKeyToken="f0c7efd1a2f8035b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Ampare-PC\Ampare</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Um09fED+2zS0HrWV8F/lyE3gKJo=</DigestValue></Reference></SignedInfo><SignatureValue>OggOBYunbFtVx2yq+VlnPly+h2krwrLPVibrUpPaYNcoPpPHlLspSjTYUhS1oJkDHGo4KHv80CWaF8KOw8+olew38Mb+nMRGx5JFSDYNFH7VTX/RpIJLwK3414R+4E0DDOQyyFNLN1pnL0UpJS7prWnK84yicc/8XtZ9UbUOc2M=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yLF37DPLisve9iWl9rX0TbeJxq5Q6yzi2WiXTiLEGPY0xZ9dMPIQe+OwWRJC7DYVVzbVOUbPNOjCdlXKjohBptCva+Ik5vf5yhEOzFBLlg55HLjlQk1hA0jd3SoYW5PjGCSg3rw7XJaOiiYPmoJxbc/dn3fjEOUQn6lWtHVllZk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQUF36U8Zz7q1A2YiY3mI8ajANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAAQQBtAHAAYQByAGUALQBQAEMAXABBAG0AcABhAHIAZTAeFw0xMjA3MTUwNjQ5MDZaFw0xMzA3MTUxMjQ5MDZaMCsxKTAnBgNVBAMeIABBAG0AcABhAHIAZQAtAFAAQwBcAEEAbQBwAGEAcgBlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDIsXfsM8uKy972JaX2tfRNt4nGrlDrLOLZaJdOIsQY9jTFn10w8hB747BZEkLsNhVXNtU5Rs806MJ2VcqOiEGm0K9r4iTm9/nKEQ7MUEuWDnkcuOVCTWEDSN3dKhhbk+MYJKDevDtclo6KJg+agnFtz92fd+MQ5RCfqVa0dWWVmQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAEl3Kuel+Pipm/897sc8G/PWvOvu3eZbYJbspH7u3b8oyjTUJJT8yfeZYrk2hftr9J6PcXkZrGOJ2QQYeiY+vzSbgKd8Pd5MGaitvyKOypfbLvYeYwxN7jZTb4fvuq63jDeHAQyear1eTmWTF2v2f1AmJlcaNcm2V6nW0j7WaRoy</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
